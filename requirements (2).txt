@@ -1,0 +1,10 @@
+streamlit
+pandas
+openai
+elevenlabs
+d-id
+requests
+numpy
+pydeck
+altair
+protobuf
