@@ -1,0 +1,9 @@
+streamlit==1.47.0
+pandas==2.3.1
+openai==1.97.0
+elevenlabs==0.2.27
+requests==2.32.4
+numpy==2.3.1
+pydeck==0.9.1
+altair==5.5.0
+protobuf==6.31.1
